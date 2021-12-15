@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**LIjiAngChen8/LIjiAngChen8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="李江辰" src="./assets/1.jpg" width=100/>
 
-Here are some ideas to get you started:
+## Hi, I'm Jangchen Li 👋
+李江辰
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-4a4de7?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-DD4C3E?logo=javascript&logoColor=white)
+
+</p>
+
+<p>
+
+![Vue](https://img.shields.io/badge/-Vue-363333?logo=vue.js)
+![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-F8B58C?logo=webpack)
+
+</p>
+<p>
+This GitHub is mainly used to record and share my code life,
+At the same time, I hope to learn new knowledge and make some like-minded friends here.
+
+</P>
+
+# ☄️
