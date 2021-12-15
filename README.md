@@ -24,5 +24,3 @@ This GitHub is mainly used to record and share my code life,
 At the same time, I hope to learn new knowledge and make some like-minded friends here.
 
 </P>
-
-# ☄️
