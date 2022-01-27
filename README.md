@@ -2,7 +2,7 @@
 
 <img alt="李江辰" src="./assets/1.jpg" width=100/>
 
-## Hi, I'm Jangchen Li 👋
+##  🪐
 李江辰
 <p>
 
